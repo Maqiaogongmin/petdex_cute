@@ -34,6 +34,7 @@ pets/aka-pilot/
 上传到 Petdex 时，请上传 `pets/aka-pilot` 文件夹，或上传一个根目录直接包含 `pet.json` 和 `spritesheet.webp` 的 zip 包。
 
 ## 安装
+请访问：https://petdex.crafter.run/pets/aka-pilot
 
 把 `pets/aka-pilot` 复制到 Codex 自定义宠物目录：
 
