@@ -1,0 +1,10 @@
+{
+  "ok": true,
+  "run_dir": "/Users/ly/Documents/codex pet design/runs/aka-pilot",
+  "spritesheet": "/Users/ly/Documents/codex pet design/runs/aka-pilot/final/spritesheet.webp",
+  "validation": "/Users/ly/Documents/codex pet design/runs/aka-pilot/final/validation.json",
+  "contact_sheet": "/Users/ly/Documents/codex pet design/runs/aka-pilot/qa/contact-sheet.png",
+  "review": "/Users/ly/Documents/codex pet design/runs/aka-pilot/qa/review.json",
+  "videos": "/Users/ly/Documents/codex pet design/runs/aka-pilot/qa/videos",
+  "package": "/Users/ly/.codex/pets/aka-pilot"
+}

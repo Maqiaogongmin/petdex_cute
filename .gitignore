@@ -1,0 +1,10 @@
+.DS_Store
+**/.DS_Store
+
+# Local temp/cache files
+.cache/
+tmp/
+
+# Keep generated pet artifacts in this repo intentionally.
+!runs/
+!pets/
